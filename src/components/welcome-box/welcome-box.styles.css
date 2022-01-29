@@ -1,0 +1,45 @@
+.welcome-box {
+  position: absolute;
+  height: 311px;
+  width: 1048px;
+  left: 413px;
+  right: 100px;
+  top: 60px;
+  bottom: 595px;
+  background-color: #d3d3d3;
+  align-items: center;
+  justify-content: center;
+}
+
+welcome-message {
+  font-size: 100px;
+}
+
+.get-jobs {
+  font-size: 25px;
+}
+
+.steps {
+  position: relative;
+  display: table-cell;
+  height: 90px;
+  width: 250px;
+  background-color: #fff;
+  margin: 10px 100px;
+  border-style: solid;
+  border-radius: 10px;
+  border-color: #d3d3d3;
+}
+
+p {
+  font-size: 20px;
+  font-weight: bold;
+}
+
+h5 {
+  color: #fff;
+  background-color: black;
+  border-style: solid;
+  border-radius: 50%;
+  width: 30px;
+}

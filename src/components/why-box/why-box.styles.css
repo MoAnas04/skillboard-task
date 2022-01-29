@@ -1,0 +1,21 @@
+.why-box {
+  position: absolute;
+  width: 1048px;
+  height: 400px;
+  left: 413px;
+  top: 400px;
+}
+
+.image {
+  margin-left: 10px;
+  float: left;
+  height: 100%;
+  width: 400px;
+  margin-top: -50px;
+}
+
+ul li {
+  color: black;
+  font-size: 15px;
+  font-weight: bold;
+}
